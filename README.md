@@ -34,18 +34,18 @@
 ## 📌 Featured Projects
 ### 🕵️ Dragon Detective  
 Interactive browser-based mystery game built with **React**, **JavaScript**, and **CSS**.  
-[🔗 View on GitHub]([#](https://github.com/KristaButler/dragon-detective)) | [🎮 Live Demo]([#]https://dragon-detective.kristathecoder.com/)
+[🔗 View on GitHub](https://github.com/KristaButler/dragon-detective) | [🎮 Live Demo](https://dragon-detective.kristathecoder.com/)
 
 ### 📚 Book List for Authors Plugin  
 Custom **WordPress** plugin to help authors display books with purchase links.  
-[🔗 View on GitHub]([#]https://github.com/KristaButler/blfa)
+[🔗 View on GitHub](https://github.com/KristaButler/blfa)
 
 ---
 
 ## 📫 Connect with Me
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://kristathecoder.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINK-HERE](https://www.linkedin.com/in/krista-butler-5a82071a7/))  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)]([https://github.com/YOUR-USERNAME](https://github.com/KristaButler))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krista-butler-5a82071a7/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/KristaButler)  
 
 ---
 
